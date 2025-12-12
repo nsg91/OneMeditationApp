@@ -2,7 +2,6 @@
 
 **Effective Date:** December 12, 2025  
 **Owner / Operator:** One Meditation App (by Nicolas S.)  
-**Website:** https://onemeditationapp.com  
 **Contact Email:** nsgn.one@gmail.com
 
 ---
@@ -57,8 +56,9 @@ If you choose to use these features, we may store:
 - **Meditation audio files** you upload
 - Titles or metadata related to uploaded meditations
 - **Intentions** submitted when lighting a candle in the Oneness space
+- Meditation intentions
 
-Some content (such as intentions) may be visible to other users depending on how the feature is configured. Please do not share sensitive personal information in public areas.
+Intentions are private to the user. 
 
 ### D. Notifications Preferences
 
@@ -188,4 +188,3 @@ We may update this Privacy Policy periodically. Updates will be posted with a re
 If you have questions or concerns about this Privacy Policy, contact:
 
 - **Email:** nsgn.one@gmail.com  
-- **Website:** https://onemeditationapp.com
