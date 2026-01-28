@@ -62,13 +62,27 @@ You are responsible for maintaining the security of your account.
 
 ---
 
-## 6. Subscriptions and In-App Purchases
+## 6. Subscriptions and Billing
 
-Paid features are offered via monthly or annual subscriptions.
+The App offers a "Free" version and a "Premium" subscription ("One Premium") that unlocks all content.
 
-- Payments are processed by Apple or Google
-- We do not store payment details
-- Subscription management is handled by the app store
+A. Subscription Plans
+
+- Monthly Subscription: Billed once a month.
+
+- Annual Subscription: Billed once a year.
+
+B. Payment & Auto-Renewal
+
+- Payment: Payment will be charged to your Apple ID (iTunes) or Google Play Account at confirmation of purchase.
+
+- Auto-Renewal: Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+
+- Renewal Cost: Your account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen plan.
+
+- Management: You can manage your subscriptions and turn off auto-renewal by going to your Account Settings on your device after purchase.
+
+- No Refunds: Unused portions of the subscription period are not refundable, except where required by law. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription.
 
 ---
 
