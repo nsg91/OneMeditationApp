@@ -136,7 +136,12 @@ We use reasonable technical and organizational measures to protect information. 
 
 We retain information as long as necessary to provide the App and comply with legal obligations.
 
-You may request deletion of your data by contacting **nsgn.one@gmail.com**.
+Inactivity Deletion Policy: To ensure data privacy and minimize storage of unused data, we reserve the right to delete accounts and all associated data (including meditation history and streaks) that have been inactive for a continuous period of 6 months.
+
+- Registered Users: We may attempt to notify you via email before deletion if you have provided one.
+- Anonymous Users: Data associated with anonymous accounts cannot be recovered once deleted due to inactivity.
+
+You may also request immediate deletion of your data by using the "Delete Account" feature within the App settings or by contacting **nsgn.one@gmail.com**.
 
 ---
 
@@ -152,6 +157,7 @@ If you uninstall the App without upgrading/signing in, anonymous data may be los
 
 Depending on your jurisdiction, you may have rights to:
 
+- Delete your account: You can permanently delete your account and data directly within the App by navigating to Settings > Account Info > Delete Account.
 - Access, correct, or delete your data
 - Request data portability
 - Withdraw consent where applicable
