@@ -1,2 +1,2 @@
-# OneMeditationApp-legal
+# OneMeditationApp
 One Meditation App Terms and Privacy Policy
